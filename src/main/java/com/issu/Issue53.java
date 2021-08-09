@@ -1,8 +1,9 @@
 package com.issu;
 
 public class Issue53 {
+	private int i;
 	private Long l;
-
+	
 	public String a;
 	public String c;
 	
