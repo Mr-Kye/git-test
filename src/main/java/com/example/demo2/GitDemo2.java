@@ -6,6 +6,7 @@ public class GitDemo2 {
 		// TODO Auto-generated method stub
 		int i = 0;
 		String str = null;
+		Long j = 0L;
 	}
 
 }
